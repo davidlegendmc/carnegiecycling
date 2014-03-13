@@ -1,0 +1,20 @@
+/*
+ Theme Name:   Carnegie Cycling
+ Theme URI:    http://carnegiecycling.com.au
+ Description:  Carnegie Cycling theme
+ Author:       David McNamara
+ Author URI:   http://shinysprocket.com
+ Template:     sahifa
+ Version:      0.0.1
+ Tags:         
+ Text Domain:  carnegiecycling
+*/
+
+@import url("../sahifa/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+.stripe-line {
+    background: none;
+}
